@@ -1,4 +1,5 @@
 MediScan AI: Precision Medication Analysis for Skin Health
+
 📌 Core Purpose
 
 AI-powered medical analysis tool that deciphers medication ingredients and their effects on skin health.
